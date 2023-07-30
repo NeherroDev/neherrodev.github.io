@@ -1,8 +1,9 @@
 body {
+    margin: 0;
     background-color: #242424;
     color: white;
     font-family: 'Fredoka', sans-serif;
-    font-family: 'Ubuntu', sans-serif;  
+    font-family: 'Ubuntu', sans-serif;
 }
 
 #underline {
